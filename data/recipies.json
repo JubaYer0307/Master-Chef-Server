@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "ingredients": [
+        "1 pound spaghetti",
+        "6 slices bacon, chopped",
+        "4 cloves garlic, minced",
+        "2 large eggs",
+        "1 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper",
+        "2 tablespoons chopped fresh parsley leaves"
+      ],
+      "method": [
+        "Cook spaghetti according to package instructions.",
+        "In a separate skillet, cook chopped bacon until crispy.",
+        "Add minced garlic to the skillet and sauté for a minute.",
+        "In a mixing bowl, whisk together eggs and Parmesan cheese.",
+        "Drain spaghetti and reserve 1/2 cup of the cooking water.",
+        "Add the hot spaghetti and reserved cooking water to the skillet with bacon and garlic, and toss to combine.",
+        "Remove from heat and stir in the egg and cheese mixture, tossing to coat the spaghetti evenly.",
+        "Season with salt and freshly ground black pepper, and sprinkle with chopped parsley."
+      ],
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "name": "Chicken Parmesan",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1/2 cup all-purpose flour",
+        "2 large eggs, beaten",
+        "1 cup Italian seasoned breadcrumbs",
+        "2 cups marinara sauce",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper",
+        "2 tablespoons chopped fresh basil leaves"
+      ],
+      "method": [
+        "Preheat oven to 400 degrees F.",
+        "Season chicken breasts with salt and freshly ground black pepper.",
+        "Dredge chicken in flour, shaking off excess.",
+        "Dip chicken in beaten eggs, then coat in breadcrumbs.",
+        "Place chicken on a baking sheet and bake for 20 minutes.",
+        "Remove from oven and spoon marinara sauce over each chicken breast.",
+        "Sprinkle with mozzarella and Parmesan cheeses.",
+        "Return to oven and bake for an additional 10 minutes, until cheese is melted and bubbly.",
+        "Garnish with chopped fresh basil leaves."
+      ],
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "name": "Beef Stroganoff",
+      "ingredients": [
+        "1 pound beef sirloin, sliced thinly",
+        "Salt and freshly ground black pepper",
+        "1 tablespoon olive oil",
+        "1 tablespoon butter",
+        "1 small onion, chopped",
+        "8 ounces sliced mushrooms",
+        "2 cloves garlic, minced",
+        "1 tablespoon all-purpose flour",
+        "1 cup beef broth",
+        "1 tablespoon Dijon mustard",
+        "1/2 cup sour cream",
+        "8 ounces egg noodles, cooked according to package instructions",
+        "2 tablespoons chopped fresh parsley leaves"
+      ],
+      "method": [
+        "Season sliced beef with salt and freshly ground black pepper.",
+        "Heat olive oil and butter in a skillet over medium-high heat.",
+        "Add beef to the skillet and cook until browned on all sides.",
+        "Remove beef from skillet and set aside.",
+        "Add chopped onion and sliced mushrooms to the skillet and sauté until tender.",
+        "Add minced garlic and sauté for a minute.",
+        "Sprinkle flour over vegetables and stir to combine."
+    ],
+    "rating": 4.8,
+    "favorite": true
+}
+]
+  
