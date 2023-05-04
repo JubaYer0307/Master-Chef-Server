@@ -34,7 +34,7 @@ app.get('/main/:id', (req, res) => {
 
 app.get('/recipies/:id', (req, res) => {
   const recipieId = req.params.id;
-  const recipie = chefs.find((recipie) => recipie.id === recipiefId);
+  const recipie = chefs.find((recipie) => recipie.id === recipieId);
 
   if (recipie) {
     res.send(recipie);
